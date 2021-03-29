@@ -23,6 +23,8 @@ def ej1():
     Calcule la diferencia entre ellos e informe por pantalla
     si el resultado es positivo, negativo o cero.
     '''
+    numero_1 = int(input("Ingrese el primer número"))
+    numero_2 = int(input("Ingrese el segundo número"))
 
 
 def ej2():
