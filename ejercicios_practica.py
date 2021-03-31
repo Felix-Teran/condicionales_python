@@ -142,6 +142,7 @@ def ej3():
 
         #   --> En caso afirmativo, verifique si el numero_2
         #       es positivo
+
         if numero_2 > 0:
     #       --> En caso afirmativo imprima en pantalla "Resp=1"
             print("Resp=1")
@@ -152,6 +153,7 @@ def ej3():
     #  --> En caso negativo (numero_1 no es mayor a 5)
     #      verifique si el numero_2 es mayor a 5
     else:
+        
         if numero_2 > 5:
     #       --> En caso afirmativo imprima en pantalla "Resp=3"
             print("Resp=3")
@@ -224,7 +226,7 @@ def ej4():
 
 if __name__ == '__main__':
     print("Bienvenidos a otra clase de Inove con Python")
-    ej1()
-    ej2()
+    #ej1()
+    #ej2()
     #ej3()
     #ej4()
